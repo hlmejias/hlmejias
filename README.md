@@ -1,26 +1,35 @@
 # Hector Mejias
 
-SOC / Blue Team | IT Support con enfoque en seguridad
+### Windows Systems Administrator | SOC Analyst | Identity & Access Management (IAM)
 
-Experiencia en:
+Technical Skills:
 
-* Wazuh SIEM (detección y monitoreo de eventos)
-* Active Directory (GPO, IAM, hardening)
-* Análisis de logs y detección de anomalías
-* Redes: TCP/IP, VLANs, análisis de tráfico
-* Automatización con Bash y Python
+* Active Directory Domain Services (AD DS)
+* Windows Server Administration
+* Group Policy & Group Policy Preferences
+* Identity & Access Management (IAM)
+* Windows LAPS
+* DNS & File Server
+* Wazuh SIEM
+* PowerShell Automation
+* Network Fundamentals (TCP/IP, VLANs)
+* Linux (Parrot OS, Ubuntu, Kali & Fedora)
+* Bash & Python Automation
 * Piscina 42 Madrid (aprendizaje intensivo en C, lógica y entorno Linux)
 
 ## Proyectos destacados
-
-* SOC Lab con Wazuh + Active Directory (detección real de ataques)
-* Monitor de fuerza bruta SSH (script + análisis de logs)
-* Dashboard de incidentes de seguridad (Power BI)
+* Enterprise Active Directory Administration Lab
+* SOC Lab with Wazuh & Active Directory
+* SSH Brute Force Detection (Bash)
+* Incident Dashboard (Power BI)
 
 ## Enfoque actual
-- Detección de amenazas en entornos reales
-- Análisis de logs y correlación de eventos
-- Mejora continua de laboratorios de seguridad (SOC)
+* Identity & Access Management (IAM)
+* Windows Enterprise Administration
+* SIEM Engineering
+* Detection Engineering
+* PowerShell Automation
+* Microsoft Entra ID
 
 ## Contacto
 
