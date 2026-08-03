@@ -2,7 +2,7 @@
 
 ### Windows Systems Administrator | SOC Analyst | Identity & Access Management (IAM)
 
-Technical Skills:
+## Technical Skills
 
 * Active Directory Domain Services (AD DS)
 * Windows Server Administration
@@ -32,5 +32,5 @@ Technical Skills:
 * Microsoft Entra ID
 
 ## Contacto
-
+* hlmejiasmartinez@gmail.com
 * GitHub: https://github.com/hlmejias
