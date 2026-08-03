@@ -17,13 +17,13 @@ Technical Skills:
 * Bash & Python Automation
 * Piscina 42 Madrid (aprendizaje intensivo en C, lógica y entorno Linux)
 
-## Proyectos destacados
+## Featured Projects
 * Enterprise Active Directory Administration Lab
 * SOC Lab with Wazuh & Active Directory
 * SSH Brute Force Detection (Bash)
 * Incident Dashboard (Power BI)
 
-## Enfoque actual
+## Currently Learning
 * Identity & Access Management (IAM)
 * Windows Enterprise Administration
 * SIEM Engineering
