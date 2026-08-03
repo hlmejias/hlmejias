@@ -15,7 +15,7 @@ Technical Skills:
 * Network Fundamentals (TCP/IP, VLANs)
 * Linux (Parrot OS, Ubuntu, Kali & Fedora)
 * Bash & Python Automation
-* Piscina 42 Madrid (aprendizaje intensivo en C, lógica y entorno Linux)
+
 
 ## Featured Projects
 * Enterprise Active Directory Administration Lab
