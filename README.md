@@ -36,4 +36,4 @@
 * GitHub: https://github.com/hlmejias
 
 ## Badges
-<img src="assets/badges/google-cybersecurity-professional-certificate-v-2.png" width="120" alt="Google Cybersecurity">
+<img src="assets/badges/google-cybersecurity-professional-certificate-v-2.png" width="120" alt="Google Cybersecurity"> <img src="introduction-to-cybersecurity.png" width="120" alt="Google Cybersecurity">
