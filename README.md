@@ -34,3 +34,6 @@
 ## Contacto
 * hlmejiasmartinez@gmail.com
 * GitHub: https://github.com/hlmejias
+
+## Badges
+<img src="assets/badges/google-cybersecurity-professional-certificate-v-2.png" width="120" alt="Google Cybersecurity">
