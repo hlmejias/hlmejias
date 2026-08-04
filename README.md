@@ -36,4 +36,6 @@
 * GitHub: https://github.com/hlmejias
 
 ## Badges
+* https://www.credly.com/users/hector-mejias.27f7a33d/badges/credly
+
 <img src="assets/badges/google-cybersecurity-professional-certificate-v-2.png" width="90" alt="Google Cybersecurity">            <img src="assets/badges/introduction-to-cybersecurity.png" width="90">            <img src="assets/badges/certificado-de-analisis-de-datos-de-google.png" width="100">
